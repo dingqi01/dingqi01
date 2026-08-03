@@ -13,4 +13,4 @@ Tsinghua University
 
 **Methods:** integrated assessment, optimization, techno-economic analysis, GIS, and data-driven modeling.
 
-[Website](https://ding-qi.top/) · [Publications](https://ding-qi.top/publications) · [Email](mailto:dingq23@mails.tsinghua.edu.cn)
+[Academic Website](https://ding-qi.top/) · [Personal Site](https://dingqi01.github.io/) · [Publications](https://ding-qi.top/publications) · [Email](mailto:dingq23@mails.tsinghua.edu.cn)
